@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300);
+#btn-submit {
+	width: 100%;
+	border-radius: 7px;
+	background: #ff4a20;
+	text-decoration: center;
+	border: none;
+	color: #FFFFFF;
+	margin-top: -5px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	outline: none;
+	font-size: 13px;
+	border-bottom: 3px solid #bc0000;
+	cursor: pointer;
+}
+.inputstyle{
+	}
+.inputstyle input {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:20px;
+	border: none;
+	background: #d8d8d8;
+    font-weight:700 ;
+	display: block;
+	height: 40px;
+	outline: none;
+	width: calc(100% - 24px) ;
+	margin: auto;
+	padding: 6px 12px 6px 12px;
+	border-radius:7px;
+}
+
+.inputstyle label {
+	font-family:'Source Sans Pro', sans-serif;
+	}
+
+	
+body ::-webkit-input-placeholder {
+  /* WebKit browsers */
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-weight: 500;
+  font-size:20px;
+}
+body :-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  opacity: 1;
+  font-weight: 500;
+ font-size:20px;
+}
+body ::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  opacity: 1;
+  font-weight: 500;
+  font-size:20px;
+}
+body :-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-weight: 500;
+  font-size:20px;
+}
+

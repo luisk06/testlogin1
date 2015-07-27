@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "com.smith.leanstaffing.trackgo"
+	versionCode="1"
+	version   = "1.0">
+
+	<name>Track n' Go</name>
+	<description>This is just a sample app for smith transportation</description>
+	<author href="testsample.network" email="lmorillo@leanstaffing.com">leanstaffing</author>
+	<gap:platform name="ios" />
+	<gap:platform name="android" />
+	<!-- <gap:platform name="winphone" /> -->
+	<preference name="orientation" value="portrait"/>
+	
+</widget>
+
