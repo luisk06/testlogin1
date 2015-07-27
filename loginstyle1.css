@@ -12,7 +12,7 @@
 	padding-top: 20px;
 	padding-bottom: 20px;
 	outline: none;
-	font-size: 22px;
+	font-size: 24px;
 	border-bottom: 3px solid #bc0000;
 	cursor: pointer;
 }
@@ -68,4 +68,10 @@ body :-ms-input-placeholder {
   font-weight: 500;
   font-size:20px;
 }
+
+#rememberch, #chck-rememberme{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:20px;
+	}
+
 
